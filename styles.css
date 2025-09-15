@@ -1,4 +1,19 @@
 body {
-    color:white;
-    background:black;
+    color:rgb(0, 0, 0);
+    background: rgb(109, 114, 170);
+}
+
+header {
+    border-bottom: solid 2px rgb(63, 64, 128);
+    padding: 20px;
+    font-size: 24px;
+    color: rgb(37, 37, 75);
+}
+
+section {
+    background: rgb(210, 206, 255);
+    padding-bottom: 30px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
 }
